@@ -6,10 +6,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepjyoti982&label=Profile%20views&color=0e75b6&style=flat" alt="deepjyoti982" /> </p>
 
 - 🔭 I’m currently working on **NLP**
+- 🤖 Exploring **Agentic Workflow**
 
-- 💬 Ask me about **NodeJs, Express, React, Angular, MongoDB, MySql, JavaScript, TypeScript**
+- 💬 Ask me about **NodeJS, Express, NestJS, React, Angular, MongoDB, MySql, JavaScript, TypeScript, AI Agents, LangChain, LangGraph**
 
 - 📫 How to reach me **deepsarkar982@gmail.com**
+- 📞 +6294175525
 
 - ⚡ Fun fact **I think I am funny**
 
